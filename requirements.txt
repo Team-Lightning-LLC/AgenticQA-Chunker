@@ -1,7 +1,5 @@
-flask==3.0.0
-flask-cors==4.0.0
-gunicorn==21.2.0
-requests==2.31.0
-PyMuPDF==1.24.0
-pytesseract==0.3.10
-Pillow==10.0.0
+flask==3.1.0
+flask-cors==5.0.1
+PyMuPDF==1.25.3
+gunicorn==23.0.0
+supabase==2.13.0
